@@ -51,8 +51,8 @@ Highly analytical and detail-oriented Cybersecurity Analyst with a focus on Ince
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/anthony-lozano-028a73198/)
-* **Portfolio**: [yourwebsite.com](https://lzknows.github.io)
-* **Email**: [your.email@example.com](mailto:lozano2700@gmail.com)
+* **LinkedIn**: (https://linkedin.com/in/anthony-lozano-028a73198/)
+* **Portfolio**: https://lzknows.github.io)
+* **Email**: (mailto:lozano2700@gmail.com)
 
 ---
