@@ -40,7 +40,7 @@ Highly analytical and detail-oriented Cybersecurity Analyst with a focus on Ince
 ## 📜 Certifications & Education
 * **CompTIA A+** | 2026
 * **CompTIA Security+** | 2026
-* **CompTIA Network+** | 2026
+* **CompTIA Linux+** | 2026
 * **A.A.S Information Technology CyberSecurity** | St. Philips College
 * **Coursework Focus**: Network Defense, Digital Forensics, Ethical Hacking.
 
