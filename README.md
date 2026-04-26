@@ -1,4 +1,4 @@
-# Anthony Lozano | Cybersecurity Student
+# Anthony Lozano | Cybersecurity Analyst
 ### SOC Operations | Threat Hunting | Digital Forensics
 
 ---
@@ -38,15 +38,11 @@ Highly analytical and detail-oriented Cybersecurity Analyst with a focus on Ince
 ---
 
 ## 📜 Certifications & Education
-* **[Certification Name, e.g., CompTIA Security+]** | [Year]
-* **[Degree Name, e.g., B.S. in Cybersecurity]** | [University Name]
-* **[Coursework Focus]**: Network Defense, Digital Forensics, Ethical Hacking.
-
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+* **CompTIA A+** | 2026
+* **CompTIA Security+** | 2026
+* **CompTIA Network+** | 2026
+* **A.A.S Information Technology CyberSecurity** | St. Philips College
+* **Coursework Focus**: Network Defense, Digital Forensics, Ethical Hacking.
 
 ---
 
